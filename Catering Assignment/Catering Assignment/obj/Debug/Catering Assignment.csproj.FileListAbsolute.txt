@@ -1,0 +1,13 @@
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\bin\Debug\Catering Assignment.exe.config
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\bin\Debug\Catering Assignment.exe
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\bin\Debug\Catering Assignment.pdb
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering Assignment.csproj.AssemblyReference.cache
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering_Assignment.Form1.resources
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering_Assignment.Properties.Resources.resources
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering Assignment.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering Assignment.exe
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering Assignment.pdb
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering_Assignment.LoadingScreen.resources
+C:\Users\Nathan\source\repos\Catering Assignment\Catering Assignment\obj\Debug\Catering_Assignment.About.resources

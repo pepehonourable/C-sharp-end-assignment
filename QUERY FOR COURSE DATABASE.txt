@@ -1,0 +1,10 @@
+CREATE TABLE [dbo].[Course] (
+    [StartDate]    DATETIME NOT NULL,
+    [EndDate]      DATETIME NOT NULL,
+    [HasStarter]   BIT      NULL,
+    [HasMain]      BIT      NULL,
+    [HasDessert]   BIT      NULL,
+    [CustomerName] TEXT     NOT NULL,
+    [DailyCost]    INT      NOT NULL,
+    [TotalCost]    INT      NOT NULL
+);

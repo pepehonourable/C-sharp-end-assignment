@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catering Assignment", "Catering Assignment\Catering Assignment.csproj", "{12878689-43AC-4AD2-AE7A-AC2289ACE28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12878689-43AC-4AD2-AE7A-AC2289ACE28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12878689-43AC-4AD2-AE7A-AC2289ACE28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12878689-43AC-4AD2-AE7A-AC2289ACE28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12878689-43AC-4AD2-AE7A-AC2289ACE28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89971BB-085E-45CF-A42F-4F32A4975A8B}
+	EndGlobalSection
+EndGlobal
